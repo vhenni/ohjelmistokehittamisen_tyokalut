@@ -10,17 +10,6 @@
     <header class="site-header">
         <h1>{{ site.title }}</h1>
     </header>
-    <nav>
-        <ul>
-            <li><a href="{{ '/IT.md' | relative_url }}">IT</a></li>
-            <li><a href="{{ '/headers.md' | relative_url }}">Headers</a></li>
-            <li><a href="{{ '/lists.md' | relative_url }}">Lists</a></li>
-            <li><a href="{{ '/paragraphs.md' | relative_url }}">Paragraphs</a></li>
-            <li><a href="{{ '/blockquotes.md' | relative_url }}">Blockquotes</a></li> <!-- Fixed filename here -->
-            <li><a href="{{ '/images.md' | relative_url }}">Images</a></li>
-            <li><a href="{{ '/links.md' | relative_url }}">Links</a></li>
-        </ul>
-    </nav>
     <main>
         {{ content }}
     </main>
