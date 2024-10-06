@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: "Autumn"
+description: "Autuminal"
+
+# Xubtle fall colors
+sass:
+  custom_css: /assets/css/style.scss
