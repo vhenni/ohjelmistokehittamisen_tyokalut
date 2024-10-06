@@ -5,7 +5,6 @@ title: Lopputyö Ok!
 
 ## <Henni Veikkonen> Web-tehtävä
 
-## Available Sub-Files
 
 - [IT](IT.md)
 - [Headers](headers.md)
