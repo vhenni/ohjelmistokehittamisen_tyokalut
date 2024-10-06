@@ -1,3 +1,7 @@
+---
+layout: default
+--
+
 ### Blockquotes
 I read this interesting quote the other day:
 

@@ -12,6 +12,10 @@
     </header>
     <main>
         {{ content }}
+        <!-- Back to Index Button -->
+        <div>
+            <a href="{{ '/index.md' | relative_url }}" class="back-to-index-btn">Back to Index</a>
+        </div>
     </main>
     <footer class="site-footer">
         <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>

@@ -70,4 +70,19 @@ blockquote {
   padding: 10px; /* Space around the text */
   color: #5D4037; /* Warm brown text color */
 }
+.back-to-index-btn {
+    display: inline-block; /* Make it an inline block for proper spacing */
+    margin-top: 20px; /* Add some space above the button */
+    padding: 10px 20px; /* Add padding for a better look */
+    background-color: #BF8A00; /* Warm gold color */
+    color: #FFFFFF; /* White text */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Round the corners */
+    font-weight: bold; /* Make text bold */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.back-to-index-btn:hover {
+    background-color: #8D6E63; /* Darker shade on hover */
+}
 
