@@ -1,15 +1,5 @@
 ---
 layout: default
 title: Lopputyö Ok!
+description: ## <Henni Veikkonen> Web-tehtävä
 ---
-
-## <Henni Veikkonen> Web-tehtävä
-
-
-- [IT](IT.md)
-- [Headers](headers.md)
-- [Lists](lists.md)
-- [Paragraphs](paragraphs.md)
-- [Blockquotes](blockquote.md)
-- [Images](images.md)
-- [Links](links.md)
