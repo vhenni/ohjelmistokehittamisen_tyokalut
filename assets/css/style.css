@@ -2,6 +2,7 @@
 body {
   background-color: #FDF6E3; /* Soft cream background */
   color: #5D4037; /* Warm brown for text */
+  background-image: linear-gradient(to bottom right, #F5D6A6, #E2B641); /* Subtle autumn gradient */
 }
 
 /* Links and hover effects */
@@ -33,5 +34,17 @@ a:hover {
 
 .btn:hover {
   background-color: #8D6E63; /* Slightly darker for hover */
+}
+
+/* Additional Autumn Styles */
+h1, h2, h3, h4, h5, h6 {
+  color: #BF8A00; /* Gold for headings */
+}
+
+blockquote {
+  background-color: #FFE4B5; /* Light golden background for blockquotes */
+  border-left: 4px solid #BF8A00; /* Gold border for emphasis */
+  padding: 10px; /* Space around the text */
+  color: #5D4037; /* Warm brown text color */
 }
 
