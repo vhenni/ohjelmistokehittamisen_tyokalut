@@ -1,20 +1,16 @@
 ---
-title: Lopputyö OK!
+layout: default
+title: Lopputyö Ok!
 ---
-
 
 ## <Henni Veikkonen> Web-tehtävä
 
-### [Italics and Bold](IT.md)
+## Available Sub-Files
 
-### [Headers](headers.md)
-
-### [Links](links.md)
-
-### [Images](images.md)
-
-### [Blockquotes](blockquotes.md)
-
-### [Lists](lists.md)
-
-### [Paragraphs](paragraphs.md)
+- [IT](IT.md)
+- [Headers](headers.md)
+- [Lists](lists.md)
+- [Paragraphs](paragraphs.md)
+- [Blockquotes](blockquote.md)
+- [Images](images.md)
+- [Links](links.md)
