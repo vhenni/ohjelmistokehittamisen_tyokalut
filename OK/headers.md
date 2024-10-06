@@ -7,6 +7,7 @@
 ###### Header six
 
 
+
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
 
