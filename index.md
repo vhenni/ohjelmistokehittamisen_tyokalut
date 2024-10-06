@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Lopputyö Ok!
-description: ## <Henni Veikkonen> Web-tehtävä
+title: Lopputyö OK!
 ---
+
+## <Henni Veikkonen> Web-tehtävä
