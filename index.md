@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "## <Henni Henni Veikkonen> Web-tehtävä"
+title: "Lopputyö OK"
 ---
+## <Henni Henni Veikkonen> Web-tehtävä
 
 - [IT](IT.md)
 - [Headers](headers.md)
