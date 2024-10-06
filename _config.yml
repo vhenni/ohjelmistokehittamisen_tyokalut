@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Lopputyö OK"
+description: "## <Henni Veikkonen> Web-tehtävä"
 
 # Subtle fall colors
 sass:
