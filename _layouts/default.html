@@ -3,25 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
     <header class="site-header">
-        <h1>{{ site.title }}</h1>
+        <h1>{{ site.title }}</h1> <!-- If you have a site title here, remove the duplicate below -->
     </header>
-    <main>
-        {{ content }} <!-- This will render the subheader and any content above the nav -->
-    </main>
     <nav>
-        <ul>' | relative_url }}">IT</a></li>
+        <ul>
+            <li><a href="{{ '/IT.md' | relative_url }}">IT</a></li>
             <li><a href="{{ '/headers.md' | relative_url }}">Headers</a></li>
             <li><a href="{{ '/lists.md' | relative_url }}">Lists</a></li>
             <li><a href="{{ '/paragraphs.md' | relative_url }}">Paragraphs</a></li>
             <li><a href="{{ '/blockquotes.md' | relative_url }}">Blockquotes</a></li>
             <li><a href="{{ '/images.md' | relative_url }}">Images</a></li>
             <li><a href="{{ '/links.md' | relative_url }}">Links</a></li>
+            <li><a href="{{ '/lopputyo.md' | relative_url }}">Lopputyö</a></li>
         </ul>
     </nav>
+    <main>
+        {{ content }} <!-- This will display the content of your Markdown file -->
+    </main>
     <footer class="site-footer">
         <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
     </footer>
