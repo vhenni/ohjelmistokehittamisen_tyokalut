@@ -1,17 +1,18 @@
 /* Body background and text colors */
 body {
-  background-color: #FDF6E3; /* Soft cream background */
-  color: #5D4037; /* Warm brown for text */
-  background-image: linear-gradient(to bottom right, #F5D6A6, #E2B641); /* Subtle autumn gradient */
+  background: linear-gradient(to bottom right, #F5D6A6, #E2B641); /* Warm autumn gradient */
+  min-height: 100vh; /* Ensure the background covers the entire viewport height */
+  margin: 0; /* Remove default margin to prevent cutting off */
+  color: #4B3D3D; /* Darker warm brown for text for better readability */
 }
 
 /* Links and hover effects */
 a {
-  color: #A1887F; /* Muted brownish-orange for links */
+  color: #BF8A00; /* Warm gold for links */
 }
 
 a:hover {
-  color: #8D6E63; /* Slightly darker tone for link hover effect */
+  color: #8D6E63; /* Slightly darker brown for link hover effect */
 }
 
 /* Header */
@@ -29,7 +30,7 @@ a:hover {
 /* Optional: Styling buttons */
 .btn {
   background-color: #A1887F; /* Subtle brownish-orange for buttons */
-  color: #FFFFFF; /* White text */
+  color: #FFFFFF; /* White text for buttons */
 }
 
 .btn:hover {
@@ -38,13 +39,13 @@ a:hover {
 
 /* Additional Autumn Styles */
 h1, h2, h3, h4, h5, h6 {
-  color: #BF8A00; /* Gold for headings */
+  color: #BF8A00; /* Warm gold for headings */
 }
 
 blockquote {
   background-color: #FFE4B5; /* Light golden background for blockquotes */
   border-left: 4px solid #BF8A00; /* Gold border for emphasis */
   padding: 10px; /* Space around the text */
-  color: #5D4037; /* Warm brown text color */
+  color: #4B3D3D; /* Dark warm brown for blockquote text */
 }
 

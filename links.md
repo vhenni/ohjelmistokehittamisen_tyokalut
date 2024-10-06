@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lopputyö OK!"
+--
+
 ### Links
 [Search for it.](www.google.com)
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lopputyö OK!"
+--
+
 ### Lists
 * Flour
 * Cheese

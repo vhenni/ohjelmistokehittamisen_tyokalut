@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lopputyö OK!"
+--
+
 ### Paragraphs
 We pictured the meek mild creatures where
 They dwelt in their strawy pen,

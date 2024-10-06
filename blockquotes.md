@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lopputyö OK!"
+--
+
 ### Blockquotes
 I read this interesting quote the other day:
 
