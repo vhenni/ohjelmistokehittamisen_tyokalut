@@ -1,6 +1,3 @@
----
-layout: default
---
 
 ### Italics and Bold
 Writing in Markdown is _not_ that hard!
@@ -14,4 +11,4 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-
+[Back](index.md)

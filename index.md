@@ -7,6 +7,6 @@ title: "## <Henni Henni Veikkonen> Web-tehtävä"
 - [Headers](headers.md)
 - [Lists](lists.md)
 - [Paragraphs](paragraphs.md)
-- [Blockquotes](blockquote.md)
+- [Blockquotes](blockquotes.md)
 - [Images](images.md)
 - [Links](links.md)

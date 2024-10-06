@@ -1,6 +1,3 @@
----
-layout: default
---
 
 ### Images
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
@@ -14,3 +11,4 @@ layout: default
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 
+[Back](index.md)

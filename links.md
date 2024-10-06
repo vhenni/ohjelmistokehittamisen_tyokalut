@@ -1,6 +1,3 @@
----
-layout: default
---
 
 ### Links
 [Search for it.](www.google.com)
@@ -19,3 +16,4 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: www.stumbleupon.com
 
 
+[Back](index.md)

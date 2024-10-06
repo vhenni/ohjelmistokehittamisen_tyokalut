@@ -1,6 +1,3 @@
----
-layout: default
---
 
 ### Lists
 * Flour
@@ -37,3 +34,4 @@ layout: default
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 
+[Back](index.md)

@@ -1,6 +1,3 @@
----
-layout: default
---
 
 ### Headers
 # Header one
@@ -18,3 +15,4 @@ layout: default
 Here's some words about the book _One Hundred Years..._.
 
 
+[Back](index.md)
